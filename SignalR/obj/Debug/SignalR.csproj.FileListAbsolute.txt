@@ -67,7 +67,6 @@ D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.Owin.Security.Google.xml
 D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Projects\SignalR\SignalR\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
 D:\Projects\SignalR\SignalR\SignalR\obj\Debug\SignalR.dll
 D:\Projects\SignalR\SignalR\SignalR\obj\Debug\SignalR.pdb
 D:\Projects\SignalR\SignalR\SignalR\bin\EntityFramework.SqlServer.dll

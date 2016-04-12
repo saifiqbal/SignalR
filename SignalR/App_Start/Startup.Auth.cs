@@ -7,6 +7,7 @@ using Microsoft.Owin.Security.Google;
 using Owin;
 using SignalR.Models;
 
+
 namespace SignalR
 {
     public partial class Startup
@@ -63,6 +64,7 @@ namespace SignalR
             //    ClientId = "",
             //    ClientSecret = ""
             //});
+      
         }
     }
 }

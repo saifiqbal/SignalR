@@ -15,7 +15,6 @@ D:\Projects\SignalR\SignalR\SignalR\bin\SignalR.dll
 D:\Projects\SignalR\SignalR\SignalR\bin\SignalR.pdb
 D:\Projects\SignalR\SignalR\SignalR\bin\Antlr3.Runtime.dll
 D:\Projects\SignalR\SignalR\SignalR\bin\EntityFramework.dll
-D:\Projects\SignalR\SignalR\SignalR\bin\EntityFramework.SqlServer.dll
 D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -71,3 +70,6 @@ D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.Owin.Security.MicrosoftAccount
 D:\Projects\SignalR\SignalR\SignalR\obj\Debug\SignalR.csprojResolveAssemblyReference.cache
 D:\Projects\SignalR\SignalR\SignalR\obj\Debug\SignalR.dll
 D:\Projects\SignalR\SignalR\SignalR\obj\Debug\SignalR.pdb
+D:\Projects\SignalR\SignalR\SignalR\bin\EntityFramework.SqlServer.dll
+D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Client.dll
+D:\Projects\SignalR\SignalR\SignalR\bin\Microsoft.AspNet.SignalR.Client.xml

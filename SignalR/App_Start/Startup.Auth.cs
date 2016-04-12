@@ -64,7 +64,7 @@ namespace SignalR
             //    ClientId = "",
             //    ClientSecret = ""
             //});
-      
+            app.MapSignalR();
         }
     }
 }
